@@ -1,0 +1,6 @@
+﻿s = open("text.txt")
+print(s.readlines(20))
+print(s.readlines(20))
+print(s.readlines(20))
+print(s.readlines(20))
+s.close()
